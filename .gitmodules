@@ -8,3 +8,8 @@
 	url = https://github.com/annahutch/corrcoverage
 	shallow = true
 	registered = true
+[submodule "fcfdr"]
+	path = fcfdr
+	url = https://github.com/annahutch/fcfdr
+	shallow = true
+	registered = true

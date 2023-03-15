@@ -2,5 +2,9 @@
   {
     "package": "corrcoverage",
     "oncran": true
+  },
+  {
+    "package": "fcfdr",
+    "oncran": true
   }
 ]
